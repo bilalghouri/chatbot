@@ -7,7 +7,11 @@ use BotMan\BotMan\Drivers\DriverManager;
 DriverManager::loadDriver(\BotMan\Drivers\Facebook\FacebookDriver::class);
 
 $config = [
-    // Your driver-specific configuration
+    'facebook' => [
+    'token' => 'EAAbQa3rgGcMBAP5MS089F0SStU4pf4qbCc6amMjnSdlwmkS9zZB7uL1IYModgP7HxVY0ZAUfXNk3Hp9PjT2ofnfQZAIznZCGRCCVwZB276ahoRdbv1ZAYOUBWEX9LC9lP8EZC7GIDzLNowXZCiALgM0F4ZC4CP1uyBZA9DIiZByuEYHAQZDZD',
+    'app_secret' => 'ed659387efd74af7694fbe5b02fc7fd1',
+    'verification'=>'lololol#adasd4SAdasdaasdadsad#',
+]
 ];
 
 // create an instance
