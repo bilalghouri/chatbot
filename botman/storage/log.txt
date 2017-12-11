@@ -1,0 +1,82 @@
+Array
+(
+    [driver] => web
+    [userId] => 9999999
+    [message] => hi
+)
+Array
+(
+    [cookie] => Array
+        (
+            [0] => __lnkrntdmcvrd=-1; XSRF-TOKEN=eyJpdiI6IjNDYm1EcG1iUWptdXJnUCtYOExBblE9PSIsInZhbHVlIjoid3hpaStiNDl2S3orTUpyMGdaYmx4YjlueEVmTVVFbHRncGVaM2MwUExCT3d2cVNNcjM3U0hLaTA4NFI2RXpQa3FoZGF4UDhlUmtYUVc0YXM2bzdiM2c9PSIsIm1hYyI6IjRiYjYyNDFmYjg3YWI4ODc4NWYyYzFkODEwZGNjNTgxNjBjYjBiNzdiYzk3ZGM4M2IwNjAwM2U3NTdlYjU0ZDQifQ%3D%3D; laravel_session=eyJpdiI6IlZHTEVDcU5RV0c2c2c1bHhvcWRwdkE9PSIsInZhbHVlIjoiT3pCc1RGeTVid0hMNlIwOUVOMEFpc0VOT2JnRFl3VUNGWEh6YUZzK244VHNQdVBib3U2cGVid2hXcmxpbjA4QzNKSnUyT0hiMW1KZjBnTXM1ajBxZkE9PSIsIm1hYyI6Ijc0NzUxMzgxZjc0OWViMjc1MGFhYTJiMjA4ZjZmNGZjNjI4ZGY5OWFkNTJmNjk0NDE0ZDBiYzMwNDg1ZGVlODAifQ%3D%3D
+        )
+
+    [accept-language] => Array
+        (
+            [0] => en-US,en;q=0.9,ca;q=0.8,ms;q=0.7,es;q=0.6
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => gzip, deflate
+        )
+
+    [referer] => Array
+        (
+            [0] => http://chatbot.obsidian.local/botman/tinker
+        )
+
+    [dnt] => Array
+        (
+            [0] => 1
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json;charset=UTF-8
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+        )
+
+    [x-requested-with] => Array
+        (
+            [0] => XMLHttpRequest
+        )
+
+    [x-xsrf-token] => Array
+        (
+            [0] => eyJpdiI6IjNDYm1EcG1iUWptdXJnUCtYOExBblE9PSIsInZhbHVlIjoid3hpaStiNDl2S3orTUpyMGdaYmx4YjlueEVmTVVFbHRncGVaM2MwUExCT3d2cVNNcjM3U0hLaTA4NFI2RXpQa3FoZGF4UDhlUmtYUVc0YXM2bzdiM2c9PSIsIm1hYyI6IjRiYjYyNDFmYjg3YWI4ODc4NWYyYzFkODEwZGNjNTgxNjBjYjBiNzdiYzk3ZGM4M2IwNjAwM2U3NTdlYjU0ZDQifQ==
+        )
+
+    [origin] => Array
+        (
+            [0] => http://chatbot.obsidian.local
+        )
+
+    [accept] => Array
+        (
+            [0] => application/json, text/plain, */*
+        )
+
+    [content-length] => Array
+        (
+            [0] => 48
+        )
+
+    [connection] => Array
+        (
+            [0] => keep-alive
+        )
+
+    [host] => Array
+        (
+            [0] => chatbot.obsidian.local
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD

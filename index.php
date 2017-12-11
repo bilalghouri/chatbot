@@ -54,7 +54,7 @@ $kernel = $app->make(Illuminate\Contracts\Http\Kernel::class);
 $response = $kernel->handle(
     $request = Illuminate\Http\Request::capture()
 );
-
+file_put_contents("/var/www/chatbot/botman/storage/log.txt", print_r($request->all(), true). print_r($request->headers->all(), true). "\n". env('FACEBOOK_APP_SECRET') ."\n" . env('FACEBOOK_TOKEN'));
 $response->send();
 
 $kernel->terminate($request, $response);
