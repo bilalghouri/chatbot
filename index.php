@@ -1,27 +1,60 @@
-<?
-require __DIR__ . '/vendor/autoload.php';
-use BotMan\BotMan\BotMan;
-use BotMan\BotMan\BotManFactory;
-use BotMan\BotMan\Drivers\DriverManager;
+<?php
 
-DriverManager::loadDriver(\BotMan\Drivers\Facebook\FacebookDriver::class);
+/**
+ * Laravel - A PHP Framework For Web Artisans
+ *
+ * @package  Laravel
+ * @author   Taylor Otwell <taylor@laravel.com>
+ */
 
-$config = [
-    'facebook' => [
-    'token' => 'EAAbQa3rgGcMBAP5MS089F0SStU4pf4qbCc6amMjnSdlwmkS9zZB7uL1IYModgP7HxVY0ZAUfXNk3Hp9PjT2ofnfQZAIznZCGRCCVwZB276ahoRdbv1ZAYOUBWEX9LC9lP8EZC7GIDzLNowXZCiALgM0F4ZC4CP1uyBZA9DIiZByuEYHAQZDZD',
-    'app_secret' => 'ed659387efd74af7694fbe5b02fc7fd1',
-    'verification'=>'lololol#adasd4SAdasdaasdadsad#',
-]
-];
+define('LARAVEL_START', microtime(true));
 
-// create an instance
-$botman = BotManFactory::create($config);
+/*
+|--------------------------------------------------------------------------
+| Register The Auto Loader
+|--------------------------------------------------------------------------
+|
+| Composer provides a convenient, automatically generated class loader for
+| our application. We just need to utilize it! We'll simply require it
+| into the script here so that we don't have to worry about manual
+| loading any of our classes later on. It feels great to relax.
+|
+*/
 
-// give the bot something to listen for.
-$botman->hears('hello', function (BotMan $bot) {
-    $bot->reply('Hello yourself.');
-});
+require __DIR__.'/botman/vendor/autoload.php';
 
-// start listening
-$botman->listen();
-?>
+/*
+|--------------------------------------------------------------------------
+| Turn On The Lights
+|--------------------------------------------------------------------------
+|
+| We need to illuminate PHP development, so let us turn on the lights.
+| This bootstraps the framework and gets it ready for use, then it
+| will load up this application so that we can run it and send
+| the responses back to the browser and delight our users.
+|
+*/
+
+$app = require_once __DIR__.'/botman/bootstrap/app.php';
+
+/*
+|--------------------------------------------------------------------------
+| Run The Application
+|--------------------------------------------------------------------------
+|
+| Once we have the application, we can handle the incoming request
+| through the kernel, and send the associated response back to
+| the client's browser allowing them to enjoy the creative
+| and wonderful application we have prepared for them.
+|
+*/
+
+$kernel = $app->make(Illuminate\Contracts\Http\Kernel::class);
+
+$response = $kernel->handle(
+    $request = Illuminate\Http\Request::capture()
+);
+
+$response->send();
+
+$kernel->terminate($request, $response);
