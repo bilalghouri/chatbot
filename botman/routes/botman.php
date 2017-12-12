@@ -60,10 +60,12 @@ $botman->hears('(lund lelo|loray|gandu|chup|shut up|shut the fuck up) .*', funct
     $firstname  = $user->getFirstName();
 
     if ($firstname == 'Ayaz')
+    {
         $bot->reply('.');
         $bot->reply('.');
         $bot->reply('.');
         $bot->reply('chutye.');
+    }
     else
         $bot->reply("Please calm down.");
 });
