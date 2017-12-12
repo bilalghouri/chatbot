@@ -1,45 +1,26 @@
 Array
 (
-    [object] => page
-    [entry] => Array
-        (
-            [0] => Array
-                (
-                    [id] => 43674671559
-                    [time] => 1460620433256
-                    [messaging] => Array
-                        (
-                            [0] => Array
-                                (
-                                    [sender] => Array
-                                        (
-                                            [id] => 123456789
-                                        )
-
-                                    [recipient] => Array
-                                        (
-                                            [id] => 987654321
-                                        )
-
-                                    [timestamp] => 1460620433123
-                                    [message] => Array
-                                        (
-                                            [mid] => mid.1460620432888:f8e3412003d2d1cd93
-                                            [seq] => 12604
-                                            [text] => Testing Chat Bot ..
-                                        )
-
-                                )
-
-                        )
-
-                )
-
-        )
-
+    [driver] => web
+    [userId] => 9999999
+    [message] => hi
 )
 Array
 (
+    [x-forwarded-for] => Array
+        (
+            [0] => 111.88.68.245
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [cookie] => Array
+        (
+            [0] => laravel_session=eyJpdiI6ImxzRkFIVHFoYXdpWmxLaVBVdVFIY1E9PSIsInZhbHVlIjoiWmorNWwwUkVRemoyNWdDYnllQ0Q4UHRWS1FJalp0blNKdDRXQ21ibFNIalZHbVNBRklXUlprcFhXdFlLSzNzNE94eVwvT0RaTWVPbjY1UGxWUVhoWkdRPT0iLCJtYWMiOiJjZTRhNThkZTMxOThlMjlmY2JlMGFhYWQxMGI2OGE2YWI0NDE2ZDVmMzIyNTk4YTQxNmE5ODYzYTlmNDRhNzQ3In0%3D
+        )
+
     [accept-language] => Array
         (
             [0] => en-US,en;q=0.9,ca;q=0.8,ms;q=0.7,es;q=0.6
@@ -47,7 +28,7 @@ Array
 
     [accept-encoding] => Array
         (
-            [0] => gzip, deflate
+            [0] => gzip, deflate, br
         )
 
     [dnt] => Array
@@ -67,7 +48,7 @@ Array
 
     [postman-token] => Array
         (
-            [0] => ade3b168-a391-ca37-0d3c-5a069a333c7c
+            [0] => 1dce47ca-14c8-67f3-aeda-ba8c0f786cf1
         )
 
     [origin] => Array
@@ -87,17 +68,5078 @@ Array
 
     [content-length] => Array
         (
-            [0] => 262
-        )
-
-    [connection] => Array
-        (
-            [0] => keep-alive
+            [0] => 48
         )
 
     [host] => Array
         (
-            [0] => chatbot.obsidian.local
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 111.88.68.245
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [cookie] => Array
+        (
+            [0] => __lnkrntdmcvrd=-1; XSRF-TOKEN=eyJpdiI6IjErbnRWSjZaYWthcXBlb2JyamR3bkE9PSIsInZhbHVlIjoieXR3cXhEeDdcLzVDQlwvQjZyUDRoRWtmMFEwV3ZPaVJycFpkNkJKYVNDWExLaUE3VVBZdUdtYTBmZ2lCUUoyTlZ1V1FLcFd2cWZZVG8ycXVIOXF4QzJ2Zz09IiwibWFjIjoiYTI1Y2U5ZDgxNmYxYzMzYjNhODEwMzg4M2NlMWNjYmM1NGNkZTkyMjU1Y2JmZWU1NmQ1ZGRmNGJjODFmYjE1NiJ9; laravel_session=eyJpdiI6InhreTV3Z1Y0OEJVZytud3NGam9XSkE9PSIsInZhbHVlIjoia1wvQ2t6K2JPaU52dFRPb1Y5U0ZsWkFOMWN2UGEwY3hMNkNxUHpKSzNVcDI4NkZaYUJ5QWRyTEpnZndjQjljY1pPMk8wY3R3VnF4UTlJNCsxb1g2dWhRPT0iLCJtYWMiOiJkNzMwNWM0OGQ5MWI4NWJhY2ZjNWRiZGNkMTQ4YjljZjI4YWE0ZDZkN2E2YWMxYzEwNjczNDg0OGY2ZWU0MWM2In0%3D
+        )
+
+    [accept-language] => Array
+        (
+            [0] => en-US,en;q=0.9,ca;q=0.8,ms;q=0.7,es;q=0.6
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => gzip, deflate, br
+        )
+
+    [dnt] => Array
+        (
+            [0] => 1
+        )
+
+    [accept] => Array
+        (
+            [0] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+        )
+
+    [upgrade-insecure-requests] => Array
+        (
+            [0] => 1
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+    [content-length] => Array
+        (
+            [0] => 
+        )
+
+    [content-type] => Array
+        (
+            [0] => 
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 111.88.68.245
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [cookie] => Array
+        (
+            [0] => __lnkrntdmcvrd=-1; XSRF-TOKEN=eyJpdiI6IjErbnRWSjZaYWthcXBlb2JyamR3bkE9PSIsInZhbHVlIjoieXR3cXhEeDdcLzVDQlwvQjZyUDRoRWtmMFEwV3ZPaVJycFpkNkJKYVNDWExLaUE3VVBZdUdtYTBmZ2lCUUoyTlZ1V1FLcFd2cWZZVG8ycXVIOXF4QzJ2Zz09IiwibWFjIjoiYTI1Y2U5ZDgxNmYxYzMzYjNhODEwMzg4M2NlMWNjYmM1NGNkZTkyMjU1Y2JmZWU1NmQ1ZGRmNGJjODFmYjE1NiJ9; laravel_session=eyJpdiI6InhreTV3Z1Y0OEJVZytud3NGam9XSkE9PSIsInZhbHVlIjoia1wvQ2t6K2JPaU52dFRPb1Y5U0ZsWkFOMWN2UGEwY3hMNkNxUHpKSzNVcDI4NkZaYUJ5QWRyTEpnZndjQjljY1pPMk8wY3R3VnF4UTlJNCsxb1g2dWhRPT0iLCJtYWMiOiJkNzMwNWM0OGQ5MWI4NWJhY2ZjNWRiZGNkMTQ4YjljZjI4YWE0ZDZkN2E2YWMxYzEwNjczNDg0OGY2ZWU0MWM2In0%3D
+        )
+
+    [accept-language] => Array
+        (
+            [0] => en-US,en;q=0.9,ca;q=0.8,ms;q=0.7,es;q=0.6
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => gzip, deflate, br
+        )
+
+    [dnt] => Array
+        (
+            [0] => 1
+        )
+
+    [accept] => Array
+        (
+            [0] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+        )
+
+    [upgrade-insecure-requests] => Array
+        (
+            [0] => 1
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+        )
+
+    [cache-control] => Array
+        (
+            [0] => max-age=0
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+    [content-length] => Array
+        (
+            [0] => 
+        )
+
+    [content-type] => Array
+        (
+            [0] => 
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [driver] => web
+    [userId] => 9999999
+    [message] => hi
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 111.88.68.245
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [cookie] => Array
+        (
+            [0] => laravel_session=eyJpdiI6ImxzRkFIVHFoYXdpWmxLaVBVdVFIY1E9PSIsInZhbHVlIjoiWmorNWwwUkVRemoyNWdDYnllQ0Q4UHRWS1FJalp0blNKdDRXQ21ibFNIalZHbVNBRklXUlprcFhXdFlLSzNzNE94eVwvT0RaTWVPbjY1UGxWUVhoWkdRPT0iLCJtYWMiOiJjZTRhNThkZTMxOThlMjlmY2JlMGFhYWQxMGI2OGE2YWI0NDE2ZDVmMzIyNTk4YTQxNmE5ODYzYTlmNDRhNzQ3In0%3D
+        )
+
+    [accept-language] => Array
+        (
+            [0] => en-US,en;q=0.9,ca;q=0.8,ms;q=0.7,es;q=0.6
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => gzip, deflate, br
+        )
+
+    [dnt] => Array
+        (
+            [0] => 1
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [postman-token] => Array
+        (
+            [0] => 42db3dee-9263-8318-6c73-b94595a6d012
+        )
+
+    [origin] => Array
+        (
+            [0] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+        )
+
+    [cache-control] => Array
+        (
+            [0] => no-cache
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+        )
+
+    [content-length] => Array
+        (
+            [0] => 48
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [driver] => web
+    [userId] => 9999999
+    [message] => hi
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 111.88.68.245
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [cookie] => Array
+        (
+            [0] => __lnkrntdmcvrd=-1; XSRF-TOKEN=eyJpdiI6IlBNamlScmdjYTcwV000SEZrMWl4enc9PSIsInZhbHVlIjoiOFMwV0Z5eldEUlp1T0FaK3FCQVNrNW1tOTNTMWY2NURDRG1NNWtiNXhWZW5OVUhnVFRCbUVcL3ZNN2dZTGlFNzNTNDlHcUhVMzcxT3lSSXRscWVVU2hRPT0iLCJtYWMiOiJiOThkNDZlNzQ0YTQ0NmNiNGEyNWU1OWIyMTZiOGJiM2NiZGI5MGMwNTEyMWRiOTgzOGVkMDQxNjBmZjQ2ODI3In0%3D; laravel_session=eyJpdiI6InVidzR4MitRXC9Zd2F4eDhIanFadElBPT0iLCJ2YWx1ZSI6InpxZ0dxUVp1VG1sVjhjck0rQ1wvbDVJRWh1UysrXC9WQWFpR2l2Y1NibTFkdWtsV25oZFlqalVMaXNtSmJJc0ltSVVSMUEyTEdiYzRUb1ZzaHoxMDhwMGc9PSIsIm1hYyI6ImE1MTFkNTI3MThjMjA2OGIxZjZhYjU5YzJlOTFjNGM1MjRkZjI5N2RjNmZiNWE4OGUyZTExZTA5YWIyYTg5NDUifQ%3D%3D
+        )
+
+    [accept-language] => Array
+        (
+            [0] => en-US,en;q=0.9,ca;q=0.8,ms;q=0.7,es;q=0.6
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => gzip, deflate, br
+        )
+
+    [referer] => Array
+        (
+            [0] => https://762c2edf.ngrok.io/botman/tinker
+        )
+
+    [dnt] => Array
+        (
+            [0] => 1
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json;charset=UTF-8
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+        )
+
+    [x-requested-with] => Array
+        (
+            [0] => XMLHttpRequest
+        )
+
+    [x-xsrf-token] => Array
+        (
+            [0] => eyJpdiI6IlBNamlScmdjYTcwV000SEZrMWl4enc9PSIsInZhbHVlIjoiOFMwV0Z5eldEUlp1T0FaK3FCQVNrNW1tOTNTMWY2NURDRG1NNWtiNXhWZW5OVUhnVFRCbUVcL3ZNN2dZTGlFNzNTNDlHcUhVMzcxT3lSSXRscWVVU2hRPT0iLCJtYWMiOiJiOThkNDZlNzQ0YTQ0NmNiNGEyNWU1OWIyMTZiOGJiM2NiZGI5MGMwNTEyMWRiOTgzOGVkMDQxNjBmZjQ2ODI3In0=
+        )
+
+    [origin] => Array
+        (
+            [0] => https://762c2edf.ngrok.io
+        )
+
+    [accept] => Array
+        (
+            [0] => application/json, text/plain, */*
+        )
+
+    [content-length] => Array
+        (
+            [0] => 48
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [driver] => web
+    [userId] => 9999999
+    [message] => hi
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 111.88.68.245
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [cookie] => Array
+        (
+            [0] => laravel_session=eyJpdiI6InZuVVJBQUg5NnhZT3hSSDBZak5nbUE9PSIsInZhbHVlIjoiXC9iaGJXVzJkUXVYbEU5SE5LeCt1NXViK1RLcWFwQWxQN1RCK29vZ0h0OXNnOVVPU0NQaVYxa3crQWJQQzV0MTd0TU9DZnYwWUtnMXZJbk5ZbTBBXC80UT09IiwibWFjIjoiOTM5MzU3YmIxNDJkZjVmOTk2NDg5OGVjNjU0ZTY3YjBjN2UxNjMxZTU3NjYwMzAyYWYzZTcyMGJhOTUzMDE5NSJ9
+        )
+
+    [accept-language] => Array
+        (
+            [0] => en-US,en;q=0.9,ca;q=0.8,ms;q=0.7,es;q=0.6
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => gzip, deflate, br
+        )
+
+    [dnt] => Array
+        (
+            [0] => 1
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [postman-token] => Array
+        (
+            [0] => ddb0a01c-cc77-3b91-1a15-d5d206f8dbc9
+        )
+
+    [origin] => Array
+        (
+            [0] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+        )
+
+    [cache-control] => Array
+        (
+            [0] => no-cache
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+        )
+
+    [content-length] => Array
+        (
+            [0] => 48
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [driver] => web
+    [userId] => 9999999
+    [message] => hi
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 111.88.68.245
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [cookie] => Array
+        (
+            [0] => laravel_session=eyJpdiI6IjI5OElOOXZ3NzZQRmpDdm5KWllaN0E9PSIsInZhbHVlIjoicXdvejZjSURSQlJib2pwM29IMUg2SU9JVzZRNHFKTXcrNFVNOFhNUHVocFAzOEFOZndlSTczM05YTXJ0QkNMbVFnNzUrK0VGRmFzSEpTUzNIYUVKdWc9PSIsIm1hYyI6ImZkZWU2NDZhOTI3MTU0YjE5YjQwYjA5N2FiMmE0ZmY2MzgwNTkxNDAxM2MyMzkyMmU0YzI2ZWMyNjVmMDlhNWMifQ%3D%3D
+        )
+
+    [accept-language] => Array
+        (
+            [0] => en-US,en;q=0.9,ca;q=0.8,ms;q=0.7,es;q=0.6
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => gzip, deflate, br
+        )
+
+    [dnt] => Array
+        (
+            [0] => 1
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json;charset=UTF-8
+        )
+
+    [postman-token] => Array
+        (
+            [0] => f3bdbb31-5c7e-f382-437a-59863c6957f4
+        )
+
+    [origin] => Array
+        (
+            [0] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+        )
+
+    [cache-control] => Array
+        (
+            [0] => no-cache
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+        )
+
+    [content-length] => Array
+        (
+            [0] => 48
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [driver] => web
+    [userId] => 9999999
+    [message] => hi
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 111.88.68.245
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [cookie] => Array
+        (
+            [0] => laravel_session=eyJpdiI6IlNja0hUcTRudCt2OUNJTGRHQXZMMGc9PSIsInZhbHVlIjoiaGMwaURnSW96Q3M1eXhzcXF2RlpDSG05d1JqYm5qcHgyWFhxNVBRTVdaTHlKMEN5SnNEXC83UWNWamxUd29Eem1lT05TMlpiWnRXdHFoYVlKSWF6WWp3PT0iLCJtYWMiOiI1NzllY2Y4YmM4YmRiY2NhMjRjYzMzZDI0OGI5NmY0OWE1YTdjNDI2M2ViY2U3NzdiN2UxZWU2MDRjNWVmNzUwIn0%3D
+        )
+
+    [accept-language] => Array
+        (
+            [0] => en-US,en;q=0.9,ca;q=0.8,ms;q=0.7,es;q=0.6
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => gzip, deflate, br
+        )
+
+    [dnt] => Array
+        (
+            [0] => 1
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json;charset=UTF-8
+        )
+
+    [postman-token] => Array
+        (
+            [0] => 99fc306c-3da0-ccca-a7b5-5014f778edea
+        )
+
+    [x-xsrf-token] => Array
+        (
+            [0] => eyJpdiI6IlBNamlScmdjYTcwV000SEZrMWl4enc9PSIsInZhbHVlIjoiOFMwV0Z5eldEUlp1T0FaK3FCQVNrNW1tOTNTMWY2NURDRG1NNWtiNXhWZW5OVUhnVFRCbUVcL3ZNN2dZTGlFNzNTNDlHcUhVMzcxT3lSSXRscWVVU2hRPT0iLCJtYWMiOiJiOThkNDZlNzQ0YTQ0NmNiNGEyNWU1OWIyMTZiOGJiM2NiZGI5MGMwNTEyMWRiOTgzOGVkMDQxNjBmZjQ2ODI3In0=
+        )
+
+    [origin] => Array
+        (
+            [0] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+        )
+
+    [cache-control] => Array
+        (
+            [0] => no-cache
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+        )
+
+    [content-length] => Array
+        (
+            [0] => 48
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [driver] => web
+    [userId] => 9999999
+    [message] => hi
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 111.88.68.245
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [cookie] => Array
+        (
+            [0] => laravel_session=eyJpdiI6ImtMeVhxWjZSNEZSc2d5bXNXMGZQMHc9PSIsInZhbHVlIjoiZENqK1RHdzBsNStqbm9ldnc5V3JCRThlZG4rdFwvYkdISGRPOU54XC9lRXNyZlJDQjZraDNLeVl4cjVuZ2pUeGJEelwvcWU1VW9ZUXJTNUN3WUdmXC8xWEZ3PT0iLCJtYWMiOiI1NjU2MzIxZmY5NDFiMzhlODg5MjI3ZjQ2YWNiY2UxZDRiOWQ2MzNjNjBiOWUzYTIxMDMwODg4ZjI2NTA5YjMwIn0%3D
+        )
+
+    [accept-language] => Array
+        (
+            [0] => en-US,en;q=0.9,ca;q=0.8,ms;q=0.7,es;q=0.6
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => gzip, deflate, br
+        )
+
+    [dnt] => Array
+        (
+            [0] => 1
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json;charset=UTF-8
+        )
+
+    [postman-token] => Array
+        (
+            [0] => d436778a-5591-a826-02c4-515635daf2b3
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+        )
+
+    [x-xsrf-token] => Array
+        (
+            [0] => eyJpdiI6IlBNamlScmdjYTcwV000SEZrMWl4enc9PSIsInZhbHVlIjoiOFMwV0Z5eldEUlp1T0FaK3FCQVNrNW1tOTNTMWY2NURDRG1NNWtiNXhWZW5OVUhnVFRCbUVcL3ZNN2dZTGlFNzNTNDlHcUhVMzcxT3lSSXRscWVVU2hRPT0iLCJtYWMiOiJiOThkNDZlNzQ0YTQ0NmNiNGEyNWU1OWIyMTZiOGJiM2NiZGI5MGMwNTEyMWRiOTgzOGVkMDQxNjBmZjQ2ODI3In0=
+        )
+
+    [origin] => Array
+        (
+            [0] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+        )
+
+    [cache-control] => Array
+        (
+            [0] => no-cache
+        )
+
+    [accept] => Array
+        (
+            [0] => application/json, text/plain, */*
+        )
+
+    [content-length] => Array
+        (
+            [0] => 48
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [driver] => web
+    [userId] => 9999999
+    [message] => hi
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 111.88.68.245
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [cookie] => Array
+        (
+            [0] => laravel_session=eyJpdiI6Ikc3NzEyckFvVmEyQjJtU0MxUm04XC9nPT0iLCJ2YWx1ZSI6IkJ6d1ZmWk1UXC9BV3pscUlScSswYW1NZnhZOE00aUpyeW1iQ1dyUEpGQTBRY21VTFwvNkJIY0JNM1IzVjFwS2NJdzN4S1didXdnRnJ5S3BpY2F1QXZFYUE9PSIsIm1hYyI6IjJlMjdmMjMzMjc5YzFmNjA0ZGJkZmVhMjA1YzE3OTcxNjBjMmNjMmU4YjIzM2U5NWVhOTRiMzM4NjgxNWZjNzMifQ%3D%3D
+        )
+
+    [accept-language] => Array
+        (
+            [0] => en-US,en;q=0.9,ca;q=0.8,ms;q=0.7,es;q=0.6
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => gzip, deflate, br
+        )
+
+    [dnt] => Array
+        (
+            [0] => 1
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json;charset=UTF-8
+        )
+
+    [postman-token] => Array
+        (
+            [0] => 69ad7b2c-7742-aa91-9af6-c8d0c6885421
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+        )
+
+    [x-xsrf-token] => Array
+        (
+            [0] => eyJpdiI6IlBNamlScmdjYTcwV000SEZrMWl4enc9PSIsInZhbHVlIjoiOFMwV0Z5eldEUlp1T0FaK3FCQVNrNW1tOTNTMWY2NURDRG1NNWtiNXhWZW5OVUhnVFRCbUVcL3ZNN2dZTGlFNzNTNDlHcUhVMzcxT3lSSXRscWVVU2hRPT0iLCJtYWMiOiJiOThkNDZlNzQ0YTQ0NmNiNGEyNWU1OWIyMTZiOGJiM2NiZGI5MGMwNTEyMWRiOTgzOGVkMDQxNjBmZjQ2ODI3In0=
+        )
+
+    [origin] => Array
+        (
+            [0] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+        )
+
+    [cache-control] => Array
+        (
+            [0] => no-cache
+        )
+
+    [accept] => Array
+        (
+            [0] => application/json, text/plain, */*
+        )
+
+    [content-length] => Array
+        (
+            [0] => 48
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [driver] => web
+    [userId] => 9999999
+    [message] => hi
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 111.88.68.245
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [cookie] => Array
+        (
+            [0] => laravel_session=eyJpdiI6IlB3YWozelBQXC9WODBDZnR2Rk51QjV3PT0iLCJ2YWx1ZSI6IldaVXNza1YyTzBTdGdrVmJnNzR2bnNoYVNHWDNhdHJRRzg3YXZFem1sbFdIRVczcVR3dnc5MU5cLzlUV0ltXC9QWUFyNkR3eFQ1eGt1cXVFRzQ0S0pNR2c9PSIsIm1hYyI6IjY2NTJmY2VjN2JhYzhmZjUyNDVlOWI5M2MzZmU0M2U5N2RjODcyYjNlNGQ0ZjNkMzVjYWQwMDE2NmJlZmU1MmYifQ%3D%3D
+        )
+
+    [accept-language] => Array
+        (
+            [0] => en-US,en;q=0.9,ca;q=0.8,ms;q=0.7,es;q=0.6
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => gzip, deflate, br
+        )
+
+    [dnt] => Array
+        (
+            [0] => 1
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json;charset=UTF-8
+        )
+
+    [postman-token] => Array
+        (
+            [0] => 6610893d-d44f-d38d-7fc4-8089e2b7a68b
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+        )
+
+    [x-xsrf-token] => Array
+        (
+            [0] => eyJpdiI6IlBNamlScmdjYTcwV000SEZrMWl4enc9PSIsInZhbHVlIjoiOFMwV0Z5eldEUlp1T0FaK3FCQVNrNW1tOTNTMWY2NURDRG1NNWtiNXhWZW5OVUhnVFRCbUVcL3ZNN2dZTGlFNzNTNDlHcUhVMzcxT3lSSXRscWVVU2hRPT0iLCJtYWMiOiJiOThkNDZlNzQ0YTQ0NmNiNGEyNWU1OWIyMTZiOGJiM2NiZGI5MGMwNTEyMWRiOTgzOGVkMDQxNjBmZjQ2ODI3In0=
+        )
+
+    [origin] => Array
+        (
+            [0] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+        )
+
+    [cache-control] => Array
+        (
+            [0] => no-cache
+        )
+
+    [accept] => Array
+        (
+            [0] => application/json, text/plain, */*
+        )
+
+    [content-length] => Array
+        (
+            [0] => 48
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [driver] => web
+    [userId] => 9999999
+    [message] => hi
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 111.88.68.245
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [cookie] => Array
+        (
+            [0] => __lnkrntdmcvrd=-1; XSRF-TOKEN=eyJpdiI6IlBNamlScmdjYTcwV000SEZrMWl4enc9PSIsInZhbHVlIjoiOFMwV0Z5eldEUlp1T0FaK3FCQVNrNW1tOTNTMWY2NURDRG1NNWtiNXhWZW5OVUhnVFRCbUVcL3ZNN2dZTGlFNzNTNDlHcUhVMzcxT3lSSXRscWVVU2hRPT0iLCJtYWMiOiJiOThkNDZlNzQ0YTQ0NmNiNGEyNWU1OWIyMTZiOGJiM2NiZGI5MGMwNTEyMWRiOTgzOGVkMDQxNjBmZjQ2ODI3In0%3D; laravel_session=eyJpdiI6InVidzR4MitRXC9Zd2F4eDhIanFadElBPT0iLCJ2YWx1ZSI6InpxZ0dxUVp1VG1sVjhjck0rQ1wvbDVJRWh1UysrXC9WQWFpR2l2Y1NibTFkdWtsV25oZFlqalVMaXNtSmJJc0ltSVVSMUEyTEdiYzRUb1ZzaHoxMDhwMGc9PSIsIm1hYyI6ImE1MTFkNTI3MThjMjA2OGIxZjZhYjU5YzJlOTFjNGM1MjRkZjI5N2RjNmZiNWE4OGUyZTExZTA5YWIyYTg5NDUifQ%3D%3D
+        )
+
+    [accept-language] => Array
+        (
+            [0] => en-US,en;q=0.9,ca;q=0.8,ms;q=0.7,es;q=0.6
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => gzip, deflate, br
+        )
+
+    [referer] => Array
+        (
+            [0] => https://762c2edf.ngrok.io/botman/tinker
+        )
+
+    [dnt] => Array
+        (
+            [0] => 1
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json;charset=UTF-8
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+        )
+
+    [x-requested-with] => Array
+        (
+            [0] => XMLHttpRequest
+        )
+
+    [x-xsrf-token] => Array
+        (
+            [0] => eyJpdiI6IlBNamlScmdjYTcwV000SEZrMWl4enc9PSIsInZhbHVlIjoiOFMwV0Z5eldEUlp1T0FaK3FCQVNrNW1tOTNTMWY2NURDRG1NNWtiNXhWZW5OVUhnVFRCbUVcL3ZNN2dZTGlFNzNTNDlHcUhVMzcxT3lSSXRscWVVU2hRPT0iLCJtYWMiOiJiOThkNDZlNzQ0YTQ0NmNiNGEyNWU1OWIyMTZiOGJiM2NiZGI5MGMwNTEyMWRiOTgzOGVkMDQxNjBmZjQ2ODI3In0=
+        )
+
+    [origin] => Array
+        (
+            [0] => https://762c2edf.ngrok.io
+        )
+
+    [accept] => Array
+        (
+            [0] => application/json, text/plain, */*
+        )
+
+    [content-length] => Array
+        (
+            [0] => 48
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [driver] => web
+    [userId] => 9999999
+    [message] => hi
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 111.88.68.245
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [cookie] => Array
+        (
+            [0] => laravel_session=eyJpdiI6IlpvS2E1VDFjM2ozOUs2ZUNXNnhkb2c9PSIsInZhbHVlIjoiMm94RmNvSXpsN0RXVlwvXC9wa2FsMmYwTjE4VlRwMlg1SytsSXRSZUNSRjJyZ0hhRnEzcSs5MXE1R2E4VGs0UHdORjVKNEhLYlRwOUxxV1U2NHc4SEZYZz09IiwibWFjIjoiMmZkYjE4NmZjOWVlNWFiZjZkNDIwMWZiZjQyNDJlY2FjMDA5NTIxMWJkMDIzZjdiY2ZiNDU4YzFiNjZlYmUzYyJ9
+        )
+
+    [accept-language] => Array
+        (
+            [0] => en-US,en;q=0.9,ca;q=0.8,ms;q=0.7,es;q=0.6
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => gzip, deflate, br
+        )
+
+    [dnt] => Array
+        (
+            [0] => 1
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json;charset=UTF-8
+        )
+
+    [postman-token] => Array
+        (
+            [0] => 41efe64c-902a-2cf6-d9a4-532e91abf0cf
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+        )
+
+    [x-xsrf-token] => Array
+        (
+            [0] => eyJpdiI6IlBNamlScmdjYTcwV000SEZrMWl4enc9PSIsInZhbHVlIjoiOFMwV0Z5eldEUlp1T0FaK3FCQVNrNW1tOTNTMWY2NURDRG1NNWtiNXhWZW5OVUhnVFRCbUVcL3ZNN2dZTGlFNzNTNDlHcUhVMzcxT3lSSXRscWVVU2hRPT0iLCJtYWMiOiJiOThkNDZlNzQ0YTQ0NmNiNGEyNWU1OWIyMTZiOGJiM2NiZGI5MGMwNTEyMWRiOTgzOGVkMDQxNjBmZjQ2ODI3In0=
+        )
+
+    [origin] => Array
+        (
+            [0] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+        )
+
+    [cache-control] => Array
+        (
+            [0] => no-cache
+        )
+
+    [accept] => Array
+        (
+            [0] => application/json, text/plain, */*
+        )
+
+    [content-length] => Array
+        (
+            [0] => 48
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [driver] => web
+    [userId] => 9999999
+    [message] => hi
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 111.88.68.245
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [cookie] => Array
+        (
+            [0] => laravel_session=eyJpdiI6InFTbThlMVEzcEkwWXI3dEUrWTh3U0E9PSIsInZhbHVlIjoiOGU4OHNNeU1vdzNnXC9EQ0dSMVJxbXU2THY2YnZHTkdQamdYOVQ2bkNXaTRaWThcL29nNXZ6T2pCZm5ScG1ScXZ6UEcyaE5wSEtcL2UrTFJ3RHpVYzFSTnc9PSIsIm1hYyI6IjVlYTc0MWIzMTFjYjk2MWE5MWMxNTg5Y2Y4Mzg1NDgzN2NjMDU5NTc3NTBhOTBlNTg1MGExNmM1MTQ2NDZhYTQifQ%3D%3D
+        )
+
+    [accept-language] => Array
+        (
+            [0] => en-US,en;q=0.9,ca;q=0.8,ms;q=0.7,es;q=0.6
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => gzip, deflate, br
+        )
+
+    [dnt] => Array
+        (
+            [0] => 1
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json;charset=UTF-8
+        )
+
+    [postman-token] => Array
+        (
+            [0] => bf0b1507-38d3-ac93-2d61-3ad46615588e
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+        )
+
+    [x-xsrf-token] => Array
+        (
+            [0] => eyJpdiI6IlBNamlScmdjYTcwV000SEZrMWl4enc9PSIsInZhbHVlIjoiOFMwV0Z5eldEUlp1T0FaK3FCQVNrNW1tOTNTMWY2NURDRG1NNWtiNXhWZW5OVUhnVFRCbUVcL3ZNN2dZTGlFNzNTNDlHcUhVMzcxT3lSSXRscWVVU2hRPT0iLCJtYWMiOiJiOThkNDZlNzQ0YTQ0NmNiNGEyNWU1OWIyMTZiOGJiM2NiZGI5MGMwNTEyMWRiOTgzOGVkMDQxNjBmZjQ2ODI3In0=
+        )
+
+    [origin] => Array
+        (
+            [0] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+        )
+
+    [cache-control] => Array
+        (
+            [0] => no-cache
+        )
+
+    [accept] => Array
+        (
+            [0] => application/json, text/plain, */*
+        )
+
+    [content-length] => Array
+        (
+            [0] => 48
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [driver] => web
+    [userId] => 9999999
+    [message] => hi
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 111.88.68.245
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [cookie] => Array
+        (
+            [0] => laravel_session=eyJpdiI6IlJpc3R4TnJNZzBza2VXWEVPOE9cL3JBPT0iLCJ2YWx1ZSI6ImhBQmVMcW95SFIzeFFYXC9ET0lTTnZIc0VNam5MMXBJWnNqM2p3aVwvSHE2WityMnhYMFFxRHBNYnh5R3ROb25lVHYwT1ZTNnhWWTdCUkVIUHBJZWxGaVE9PSIsIm1hYyI6IjUzZThiOTY5ZTM1NzE0MDAzNGNjYWQxODU4Y2Q4YWQxYWRhODllMzFmOTdjOTFlOWZiODMxMDIxZTJkMGI1MzMifQ%3D%3D
+        )
+
+    [accept-language] => Array
+        (
+            [0] => en-US,en;q=0.9,ca;q=0.8,ms;q=0.7,es;q=0.6
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => gzip, deflate, br
+        )
+
+    [dnt] => Array
+        (
+            [0] => 1
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json;charset=UTF-8
+        )
+
+    [postman-token] => Array
+        (
+            [0] => 4b101710-af7b-a147-b436-226a7f0a0468
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+        )
+
+    [x-xsrf-token] => Array
+        (
+            [0] => eyJpdiI6IlBNamlScmdjYTcwV000SEZrMWl4enc9PSIsInZhbHVlIjoiOFMwV0Z5eldEUlp1T0FaK3FCQVNrNW1tOTNTMWY2NURDRG1NNWtiNXhWZW5OVUhnVFRCbUVcL3ZNN2dZTGlFNzNTNDlHcUhVMzcxT3lSSXRscWVVU2hRPT0iLCJtYWMiOiJiOThkNDZlNzQ0YTQ0NmNiNGEyNWU1OWIyMTZiOGJiM2NiZGI5MGMwNTEyMWRiOTgzOGVkMDQxNjBmZjQ2ODI3In0=
+        )
+
+    [origin] => Array
+        (
+            [0] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+        )
+
+    [cache-control] => Array
+        (
+            [0] => no-cache
+        )
+
+    [accept] => Array
+        (
+            [0] => application/json, text/plain, */*
+        )
+
+    [content-length] => Array
+        (
+            [0] => 48
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [driver] => web
+    [userId] => 9999999
+    [message] => hi
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 111.88.68.245
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [cookie] => Array
+        (
+            [0] => laravel_session=eyJpdiI6Ik1KcjVhXC9YU3JtRUNKeUdCelhaT1R3PT0iLCJ2YWx1ZSI6IkxNY3J5bHhEa3pqNnZoNnFlS0lSRWx1YTh6OGlBTG1ueUVhaTB2OGllK0hNRCttYndTclh3cEE5VUNVTzNUakJrcklJYWZcLzBReHRKbStNWU5FXC9lK1E9PSIsIm1hYyI6IjFlOTVlNDU3MmUzNGVkNjRhODI2Y2I4YWE0YWMwM2M3YjNhZjc4OTVhMTRkZjVmNWNkN2Q0YWY2NDFhN2MyNDIifQ%3D%3D
+        )
+
+    [accept-language] => Array
+        (
+            [0] => en-US,en;q=0.9,ca;q=0.8,ms;q=0.7,es;q=0.6
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => gzip, deflate, br
+        )
+
+    [dnt] => Array
+        (
+            [0] => 1
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json;charset=UTF-8
+        )
+
+    [postman-token] => Array
+        (
+            [0] => d2d295a4-1546-ed08-f071-d48aea290bfd
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+        )
+
+    [x-xsrf-token] => Array
+        (
+            [0] => eyJpdiI6IlBNamlScmdjYTcwV000SEZrMWl4enc9PSIsInZhbHVlIjoiOFMwV0Z5eldEUlp1T0FaK3FCQVNrNW1tOTNTMWY2NURDRG1NNWtiNXhWZW5OVUhnVFRCbUVcL3ZNN2dZTGlFNzNTNDlHcUhVMzcxT3lSSXRscWVVU2hRPT0iLCJtYWMiOiJiOThkNDZlNzQ0YTQ0NmNiNGEyNWU1OWIyMTZiOGJiM2NiZGI5MGMwNTEyMWRiOTgzOGVkMDQxNjBmZjQ2ODI3In0=
+        )
+
+    [origin] => Array
+        (
+            [0] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+        )
+
+    [cache-control] => Array
+        (
+            [0] => no-cache
+        )
+
+    [accept] => Array
+        (
+            [0] => application/json, text/plain, */*
+        )
+
+    [content-length] => Array
+        (
+            [0] => 48
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513034383054
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513034382330
+                                    [message] => Array
+                                        (
+                                            [mid] => mid.$cAAB02yi9EZ5meSXD-lgR-B7AHV89
+                                            [seq] => 241671
+                                            [text] => hi
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:3020:afc8:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 267
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=73d64ba6cc1bff6c247ac6563ba2f8188de6a7f5
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => deflate, gzip
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513034423322
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513034422644
+                                    [message] => Array
+                                        (
+                                            [mid] => mid.$cAAB02yi9EZ5meSZhdFgR-EWCl3_W
+                                            [seq] => 241673
+                                            [text] => hi
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:3020:afc8:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 267
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=cfcc4ac5e0ea38953641e1a280390eff0004e7b1
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => deflate, gzip
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513034423322
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513034422644
+                                    [message] => Array
+                                        (
+                                            [mid] => mid.$cAAB02yi9EZ5meSZhdFgR-EWCl3_W
+                                            [seq] => 241673
+                                            [text] => hi
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 111.88.68.245
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [cookie] => Array
+        (
+            [0] => laravel_session=eyJpdiI6Ik1KcjVhXC9YU3JtRUNKeUdCelhaT1R3PT0iLCJ2YWx1ZSI6IkxNY3J5bHhEa3pqNnZoNnFlS0lSRWx1YTh6OGlBTG1ueUVhaTB2OGllK0hNRCttYndTclh3cEE5VUNVTzNUakJrcklJYWZcLzBReHRKbStNWU5FXC9lK1E9PSIsIm1hYyI6IjFlOTVlNDU3MmUzNGVkNjRhODI2Y2I4YWE0YWMwM2M3YjNhZjc4OTVhMTRkZjVmNWNkN2Q0YWY2NDFhN2MyNDIifQ%3D%3D
+        )
+
+    [accept-language] => Array
+        (
+            [0] => en-US,en;q=0.9,ca;q=0.8,ms;q=0.7,es;q=0.6
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => gzip, deflate, br
+        )
+
+    [dnt] => Array
+        (
+            [0] => 1
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json;charset=UTF-8
+        )
+
+    [postman-token] => Array
+        (
+            [0] => 70eb92ce-fdb0-d6ec-d3b6-510695452035
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+        )
+
+    [x-xsrf-token] => Array
+        (
+            [0] => eyJpdiI6IlBNamlScmdjYTcwV000SEZrMWl4enc9PSIsInZhbHVlIjoiOFMwV0Z5eldEUlp1T0FaK3FCQVNrNW1tOTNTMWY2NURDRG1NNWtiNXhWZW5OVUhnVFRCbUVcL3ZNN2dZTGlFNzNTNDlHcUhVMzcxT3lSSXRscWVVU2hRPT0iLCJtYWMiOiJiOThkNDZlNzQ0YTQ0NmNiNGEyNWU1OWIyMTZiOGJiM2NiZGI5MGMwNTEyMWRiOTgzOGVkMDQxNjBmZjQ2ODI3In0=
+        )
+
+    [origin] => Array
+        (
+            [0] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+        )
+
+    [cache-control] => Array
+        (
+            [0] => no-cache
+        )
+
+    [accept] => Array
+        (
+            [0] => application/json, text/plain, */*
+        )
+
+    [content-length] => Array
+        (
+            [0] => 673
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513034423322
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513034422644
+                                    [message] => Array
+                                        (
+                                            [mid] => mid.$cAAB02yi9EZ5meSZhdFgR-EWCl3_W
+                                            [seq] => 241673
+                                            [text] => hi
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 111.88.68.245
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [cookie] => Array
+        (
+            [0] => laravel_session=eyJpdiI6IlwvR04wbnlSWGVQcTYxdGtKc2hHUHFnPT0iLCJ2YWx1ZSI6ImdJb3piN0ZzbEthRFVPWkxqZFBNR054WmNWNzlNK3kyTFwvdmE3bnpmaTlaNHVpRjBPUzFVUWdrTitRNDJESnd4QzEwa3AwMFQ5RWFaVTdzUDZOWDNxZz09IiwibWFjIjoiMGRmMWJkNjkzM2UyYTZjY2VhN2U3ZmNkNGI5MjA1YmUzNjgyY2IzZWI2YWU4YzQyMTg0NmFkYWI5ZDJjZjljYyJ9
+        )
+
+    [accept-language] => Array
+        (
+            [0] => en-US,en;q=0.9,ca;q=0.8,ms;q=0.7,es;q=0.6
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => gzip, deflate, br
+        )
+
+    [dnt] => Array
+        (
+            [0] => 1
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json;charset=UTF-8
+        )
+
+    [postman-token] => Array
+        (
+            [0] => 04678eb1-bb26-02b4-f0bd-c78aabf1ab3c
+        )
+
+    [origin] => Array
+        (
+            [0] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+        )
+
+    [cache-control] => Array
+        (
+            [0] => no-cache
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+        )
+
+    [content-length] => Array
+        (
+            [0] => 673
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [field] => messages
+                                    [value] => Array
+                                        (
+                                            [page_id] => 1067280970047460
+                                        )
+
+                                )
+
+                        )
+
+                    [id] => 0
+                    [time] => 1513030669
+                )
+
+        )
+
+    [object] => page
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:30:3fe9:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 140
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Webhooks/1.0 (https://fb.me/webhooks)
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=39633dc0323425bc0cc8c2b2fa2212439464dda8
+        )
+
+    [connection] => Array
+        (
+            [0] => close
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [field] => conversations
+                                    [value] => Array
+                                        (
+                                            [thread_id] => t_mid.14833205540:9182a4e489
+                                            [page_id] => 4444444
+                                        )
+
+                                )
+
+                        )
+
+                    [id] => 0
+                    [time] => 1513030658
+                )
+
+        )
+
+    [object] => page
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:2120:6fe4:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 179
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Webhooks/1.0 (https://fb.me/webhooks)
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=1d360d090059ac3f970b2390475306f4b47eabef
+        )
+
+    [connection] => Array
+        (
+            [0] => close
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513034423322
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513034422644
+                                    [message] => Array
+                                        (
+                                            [mid] => mid.$cAAB02yi9EZ5meSZhdFgR-EWCl3_W
+                                            [seq] => 241673
+                                            [text] => hi
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 45.116.233.23
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [cookie] => Array
+        (
+            [0] => laravel_session=eyJpdiI6InpVbHdNRG9IUkZyMmlQWFk5YzhndWc9PSIsInZhbHVlIjoibVJsRm9RQzJ4ZnNxUEdiQ0p2MVdkSjhRVzZWQ0REbUVxZWNmSThrQXFXbkh4VDhxT2RVcGhKaFI3RUlMOVpFU054K1pWSXE5ZTBDRmo5a2tsYkVobmc9PSIsIm1hYyI6IjJhOGY2NDVkZTdkZDQ3Y2FkZGQyZmQzODQ3NDcwZGI3YzliMDk3OTUwYTY2NGM4MTNjMTU5ZmQyOTUxZDBhNGMifQ%3D%3D
+        )
+
+    [accept-language] => Array
+        (
+            [0] => en-US,en;q=0.9,ca;q=0.8,ms;q=0.7,es;q=0.6
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => gzip, deflate, br
+        )
+
+    [dnt] => Array
+        (
+            [0] => 1
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json;charset=UTF-8
+        )
+
+    [postman-token] => Array
+        (
+            [0] => 6d670056-ea69-355f-43dd-9e81d2f26937
+        )
+
+    [origin] => Array
+        (
+            [0] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+        )
+
+    [cache-control] => Array
+        (
+            [0] => no-cache
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+        )
+
+    [content-length] => Array
+        (
+            [0] => 673
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Invalid Signature
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513034423322
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513034422644
+                                    [message] => Array
+                                        (
+                                            [mid] => mid.$cAAB02yi9EZ5meSZhdFgR-EWCl3_W
+                                            [seq] => 241673
+                                            [text] => hi
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 45.116.233.23
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [cookie] => Array
+        (
+            [0] => laravel_session=eyJpdiI6ImNFTUpQTzlMcVR1RklpV2p6RzUrSWc9PSIsInZhbHVlIjoiazZDakE3WmR5UnZ1TU5CZjVUejdcL1k1STFZaDRrd3VjV3BtTlZpSkdcL004VXRWVlwvcTVyaWRLazVXSmdKb1U3ZmxHWFwvQUxFelJMRVBEZzhcL1ZJcmE3QT09IiwibWFjIjoiMjJlZmE1YWRkMDI4NDExYWU3MmE1ZmFhNzJhYWQ2NmE2YzI4OTkyNGI0MDA1MjAyMjdjZDBiNTAyMzUyMzkxZSJ9
+        )
+
+    [accept-language] => Array
+        (
+            [0] => en-US,en;q=0.9,ca;q=0.8,ms;q=0.7,es;q=0.6
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => gzip, deflate, br
+        )
+
+    [dnt] => Array
+        (
+            [0] => 1
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json;charset=UTF-8
+        )
+
+    [postman-token] => Array
+        (
+            [0] => ff2eb252-1089-220a-6dc9-72e432e0f8e2
+        )
+
+    [origin] => Array
+        (
+            [0] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+        )
+
+    [cache-control] => Array
+        (
+            [0] => no-cache
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+        )
+
+    [content-length] => Array
+        (
+            [0] => 673
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Invalid Signature
+Array
+(
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 45.116.233.23
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [cookie] => Array
+        (
+            [0] => __lnkrntdmcvrd=-1; XSRF-TOKEN=eyJpdiI6IlBNamlScmdjYTcwV000SEZrMWl4enc9PSIsInZhbHVlIjoiOFMwV0Z5eldEUlp1T0FaK3FCQVNrNW1tOTNTMWY2NURDRG1NNWtiNXhWZW5OVUhnVFRCbUVcL3ZNN2dZTGlFNzNTNDlHcUhVMzcxT3lSSXRscWVVU2hRPT0iLCJtYWMiOiJiOThkNDZlNzQ0YTQ0NmNiNGEyNWU1OWIyMTZiOGJiM2NiZGI5MGMwNTEyMWRiOTgzOGVkMDQxNjBmZjQ2ODI3In0%3D; laravel_session=eyJpdiI6InVidzR4MitRXC9Zd2F4eDhIanFadElBPT0iLCJ2YWx1ZSI6InpxZ0dxUVp1VG1sVjhjck0rQ1wvbDVJRWh1UysrXC9WQWFpR2l2Y1NibTFkdWtsV25oZFlqalVMaXNtSmJJc0ltSVVSMUEyTEdiYzRUb1ZzaHoxMDhwMGc9PSIsIm1hYyI6ImE1MTFkNTI3MThjMjA2OGIxZjZhYjU5YzJlOTFjNGM1MjRkZjI5N2RjNmZiNWE4OGUyZTExZTA5YWIyYTg5NDUifQ%3D%3D
+        )
+
+    [accept-language] => Array
+        (
+            [0] => en-US,en;q=0.9,ca;q=0.8,ms;q=0.7,es;q=0.6
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => gzip, deflate, br
+        )
+
+    [dnt] => Array
+        (
+            [0] => 1
+        )
+
+    [accept] => Array
+        (
+            [0] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+        )
+
+    [upgrade-insecure-requests] => Array
+        (
+            [0] => 1
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+        )
+
+    [cache-control] => Array
+        (
+            [0] => max-age=0
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+    [content-length] => Array
+        (
+            [0] => 
+        )
+
+    [content-type] => Array
+        (
+            [0] => 
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Invalid Signature
+Array
+(
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 45.116.233.23
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [cookie] => Array
+        (
+            [0] => __lnkrntdmcvrd=-1; XSRF-TOKEN=eyJpdiI6IlBNamlScmdjYTcwV000SEZrMWl4enc9PSIsInZhbHVlIjoiOFMwV0Z5eldEUlp1T0FaK3FCQVNrNW1tOTNTMWY2NURDRG1NNWtiNXhWZW5OVUhnVFRCbUVcL3ZNN2dZTGlFNzNTNDlHcUhVMzcxT3lSSXRscWVVU2hRPT0iLCJtYWMiOiJiOThkNDZlNzQ0YTQ0NmNiNGEyNWU1OWIyMTZiOGJiM2NiZGI5MGMwNTEyMWRiOTgzOGVkMDQxNjBmZjQ2ODI3In0%3D; laravel_session=eyJpdiI6Iis1Y0Z5VlBCQzliQ3lGZFlZYUl6dGc9PSIsInZhbHVlIjoiRFVSYUFmOFRvYklla256Y2tkT3Y5UGNcL3VselloU29ReE5cL0d6U2d3VEp6T2hXaGFPbEloUHNSbThOUW1GeDVTUmVadnc0VW5Md3pcLzMyMWFVZW9ibGc9PSIsIm1hYyI6ImRmYTVkNzM2N2NiMjNlMTk5ODA3ZjE0YWEyZjBjMGY0MmUyZTBmY2YyMzY5ODcwMWU0ZmI4NzhlNGQwMTY1NDAifQ%3D%3D
+        )
+
+    [accept-language] => Array
+        (
+            [0] => en-US,en;q=0.9,ca;q=0.8,ms;q=0.7,es;q=0.6
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => gzip, deflate, br
+        )
+
+    [dnt] => Array
+        (
+            [0] => 1
+        )
+
+    [accept] => Array
+        (
+            [0] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+        )
+
+    [upgrade-insecure-requests] => Array
+        (
+            [0] => 1
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+    [content-length] => Array
+        (
+            [0] => 
+        )
+
+    [content-type] => Array
+        (
+            [0] => 
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [driver] => web
+    [userId] => 9999999
+    [message] => hi
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 45.116.233.23
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [cookie] => Array
+        (
+            [0] => __lnkrntdmcvrd=-1; XSRF-TOKEN=eyJpdiI6IlBNamlScmdjYTcwV000SEZrMWl4enc9PSIsInZhbHVlIjoiOFMwV0Z5eldEUlp1T0FaK3FCQVNrNW1tOTNTMWY2NURDRG1NNWtiNXhWZW5OVUhnVFRCbUVcL3ZNN2dZTGlFNzNTNDlHcUhVMzcxT3lSSXRscWVVU2hRPT0iLCJtYWMiOiJiOThkNDZlNzQ0YTQ0NmNiNGEyNWU1OWIyMTZiOGJiM2NiZGI5MGMwNTEyMWRiOTgzOGVkMDQxNjBmZjQ2ODI3In0%3D; laravel_session=eyJpdiI6InF4UjBQTFJjWmc4MjZKSTlvSGp5XC93PT0iLCJ2YWx1ZSI6IjBxcDM0XC9sWTdmdmtpWk5DVlhRb3l1SVk1U2Rtd3JFNFwvMzNWVWlibHVZSW5DNWFBQnZxdlZaSHNYdWlmMzd0YzRLMlwvWFNSa3QwNGhMUThISzRZcTd3PT0iLCJtYWMiOiIwODBjYjBiM2Y0NjE2YjVkOTJhMzFhZDRmOTY4OGZiM2FiMzhmNTgyZDNlMzNkYTg1ZjIwY2Y4NWU5OTk1NWM2In0%3D
+        )
+
+    [accept-language] => Array
+        (
+            [0] => en-US,en;q=0.9,ca;q=0.8,ms;q=0.7,es;q=0.6
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => gzip, deflate, br
+        )
+
+    [referer] => Array
+        (
+            [0] => https://762c2edf.ngrok.io/botman/tinker
+        )
+
+    [dnt] => Array
+        (
+            [0] => 1
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json;charset=UTF-8
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+        )
+
+    [x-requested-with] => Array
+        (
+            [0] => XMLHttpRequest
+        )
+
+    [x-xsrf-token] => Array
+        (
+            [0] => eyJpdiI6IlBNamlScmdjYTcwV000SEZrMWl4enc9PSIsInZhbHVlIjoiOFMwV0Z5eldEUlp1T0FaK3FCQVNrNW1tOTNTMWY2NURDRG1NNWtiNXhWZW5OVUhnVFRCbUVcL3ZNN2dZTGlFNzNTNDlHcUhVMzcxT3lSSXRscWVVU2hRPT0iLCJtYWMiOiJiOThkNDZlNzQ0YTQ0NmNiNGEyNWU1OWIyMTZiOGJiM2NiZGI5MGMwNTEyMWRiOTgzOGVkMDQxNjBmZjQ2ODI3In0=
+        )
+
+    [origin] => Array
+        (
+            [0] => https://762c2edf.ngrok.io
+        )
+
+    [accept] => Array
+        (
+            [0] => application/json, text/plain, */*
+        )
+
+    [content-length] => Array
+        (
+            [0] => 48
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [driver] => web
+    [userId] => 9999999
+    [message] => get started
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 45.116.233.23
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [cookie] => Array
+        (
+            [0] => __lnkrntdmcvrd=-1; XSRF-TOKEN=eyJpdiI6IlBNamlScmdjYTcwV000SEZrMWl4enc9PSIsInZhbHVlIjoiOFMwV0Z5eldEUlp1T0FaK3FCQVNrNW1tOTNTMWY2NURDRG1NNWtiNXhWZW5OVUhnVFRCbUVcL3ZNN2dZTGlFNzNTNDlHcUhVMzcxT3lSSXRscWVVU2hRPT0iLCJtYWMiOiJiOThkNDZlNzQ0YTQ0NmNiNGEyNWU1OWIyMTZiOGJiM2NiZGI5MGMwNTEyMWRiOTgzOGVkMDQxNjBmZjQ2ODI3In0%3D; laravel_session=eyJpdiI6InF4UjBQTFJjWmc4MjZKSTlvSGp5XC93PT0iLCJ2YWx1ZSI6IjBxcDM0XC9sWTdmdmtpWk5DVlhRb3l1SVk1U2Rtd3JFNFwvMzNWVWlibHVZSW5DNWFBQnZxdlZaSHNYdWlmMzd0YzRLMlwvWFNSa3QwNGhMUThISzRZcTd3PT0iLCJtYWMiOiIwODBjYjBiM2Y0NjE2YjVkOTJhMzFhZDRmOTY4OGZiM2FiMzhmNTgyZDNlMzNkYTg1ZjIwY2Y4NWU5OTk1NWM2In0%3D
+        )
+
+    [accept-language] => Array
+        (
+            [0] => en-US,en;q=0.9,ca;q=0.8,ms;q=0.7,es;q=0.6
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => gzip, deflate, br
+        )
+
+    [referer] => Array
+        (
+            [0] => https://762c2edf.ngrok.io/botman/tinker
+        )
+
+    [dnt] => Array
+        (
+            [0] => 1
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json;charset=UTF-8
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+        )
+
+    [x-requested-with] => Array
+        (
+            [0] => XMLHttpRequest
+        )
+
+    [x-xsrf-token] => Array
+        (
+            [0] => eyJpdiI6IlBNamlScmdjYTcwV000SEZrMWl4enc9PSIsInZhbHVlIjoiOFMwV0Z5eldEUlp1T0FaK3FCQVNrNW1tOTNTMWY2NURDRG1NNWtiNXhWZW5OVUhnVFRCbUVcL3ZNN2dZTGlFNzNTNDlHcUhVMzcxT3lSSXRscWVVU2hRPT0iLCJtYWMiOiJiOThkNDZlNzQ0YTQ0NmNiNGEyNWU1OWIyMTZiOGJiM2NiZGI5MGMwNTEyMWRiOTgzOGVkMDQxNjBmZjQ2ODI3In0=
+        )
+
+    [origin] => Array
+        (
+            [0] => https://762c2edf.ngrok.io
+        )
+
+    [accept] => Array
+        (
+            [0] => application/json, text/plain, */*
+        )
+
+    [content-length] => Array
+        (
+            [0] => 57
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513037653956
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513037653269
+                                    [message] => Array
+                                        (
+                                            [mid] => mid.$cAAB02yi9EZ5meVetFVgSBJkYwJcV
+                                            [seq] => 241677
+                                            [text] => hi
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:3020:afc6:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 267
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=7c018891054ad5d65cbd08e52646a2e8eae48931
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => deflate, gzip
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513037700140
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513037699456
+                                    [message] => Array
+                                        (
+                                            [mid] => mid.$cAAB02yi9EZ5meVhhgFgSBMYygryG
+                                            [seq] => 241681
+                                            [text] => hi
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:3020:1fef:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 267
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=c003cef6e2e8a571b97b2a6f592a0575fa32f824
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => deflate, gzip
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513037715144
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513037714454
+                                    [message] => Array
+                                        (
+                                            [mid] => mid.$cAAB02yi9EZ5meVicFlgSBNTX_9RC
+                                            [seq] => 241685
+                                            [text] => hi
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:3020:9fe6:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 267
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=89108b72bb876765d23d8907338fb87012e397dc
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => deflate, gzip
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513037724599
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513037723909
+                                    [message] => Array
+                                        (
+                                            [mid] => mid.$cAAB02yi9EZ5meVjBBVgSBN4VJBSL
+                                            [seq] => 241689
+                                            [text] => hello
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:3011:5fc3:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 270
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=95e23f0b0a9d14fef732e758d45c284b6c4a46fd
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => deflate, gzip
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Invalid Signature
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513037916138
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513037916138
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [postback] => Array
+                                        (
+                                            [payload] => GET_STARTED
+                                            [title] => Get Started
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:3020:1ff7:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 246
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=5b8f99640e760aede6e65f4c4cf20ca607b0a45b
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => deflate, gzip
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513037932176
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513037931489
+                                    [message] => Array
+                                        (
+                                            [quick_reply] => Array
+                                                (
+                                                    [payload] => joke
+                                                )
+
+                                            [mid] => mid.$cAAB02yi9EZ5meVvr4VgSBajHqPKB
+                                            [seq] => 241696
+                                            [text] => Tell a joke
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:3010:cfe0:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 309
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=6f592dfeb09dea1a6e4b317e069732a03d2d9155
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => deflate, gzip
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Invalid Signature
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513038094562
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513038094562
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [postback] => Array
+                                        (
+                                            [payload] => GET_STARTED
+                                            [title] => Get Started
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:3020:afce:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 246
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=ff0d5e08467d5c691e9d71c9116b29b1231368cf
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => deflate, gzip
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Invalid Signature
+Invalid Signature
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513038196911
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513038196911
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [postback] => Array
+                                        (
+                                            [payload] => GET_STARTED
+                                            [title] => Get Started
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:3020:bfe1:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 246
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=9c6f0160e7d4b819bb71059069450f215c564cfe
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => deflate, gzip
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Invalid Signature
+Array
+(
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [field] => messages
+                                    [value] => Array
+                                        (
+                                            [page_id] => 1067280970047460
+                                        )
+
+                                )
+
+                        )
+
+                    [id] => 0
+                    [time] => 1513032873
+                )
+
+        )
+
+    [object] => page
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:2040:8fc4:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 140
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Webhooks/1.0 (https://fb.me/webhooks)
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=03b2842f67db1790e5fe51f8312768d769dfec5f
+        )
+
+    [connection] => Array
+        (
+            [0] => close
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513038446796
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513038446796
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [postback] => Array
+                                        (
+                                            [payload] => GET_STARTED
+                                            [title] => Get Started
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:3020:afd5:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 246
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=785ddd87a8ea045a9410901469ed0344facf6f47
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => deflate, gzip
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513038494141
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513038493449
+                                    [message] => Array
+                                        (
+                                            [mid] => mid.$cAAB02yi9EZ5meWR_CVgSB82WSiaz
+                                            [seq] => 241715
+                                            [text] => hi
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:3020:afd6:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 267
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=2fc5129c60dec15da0aaec07e354c4173424a42a
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => deflate, gzip
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Invalid Signature
+Invalid Signature
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513039646952
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513039646952
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [postback] => Array
+                                        (
+                                            [payload] => GET_STARTED
+                                            [title] => Get Started
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:1110:8fd1:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 246
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=c18d8695e563ff48c9007a77a8193113b6a97771
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => deflate, gzip
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Invalid Signature
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513039646952
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513039646952
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [postback] => Array
+                                        (
+                                            [payload] => GET_STARTED
+                                            [title] => Get Started
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 111.88.68.245
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [cookie] => Array
+        (
+            [0] => laravel_session=eyJpdiI6IjIzUzFsKzM1a1gzQ1RlekZiZzhFaVE9PSIsInZhbHVlIjoieGIwYjlicFEwYjg2S0I2bk9aUDBHOVE3bHBmOHJEcWxTMDd4RDFDZkx0TndGRnZpS1I4Ulo5UjA3ZERRZk5JZ0FBeTNTM3p1MXNLZ1Ruc0tMU2FJSUE9PSIsIm1hYyI6IjJlNzhhN2E0ZjVlYmY2NzA5NTJiZmY0ZTViYTkwMDVhYzQ1MjdlMGNlM2JkZmJkODdlYjIwZWU4ZmI5ZDQ4YTkifQ%3D%3D
+        )
+
+    [accept-language] => Array
+        (
+            [0] => en-US,en;q=0.9,ca;q=0.8,ms;q=0.7,es;q=0.6
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => gzip, deflate, br
+        )
+
+    [dnt] => Array
+        (
+            [0] => 1
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json;charset=UTF-8
+        )
+
+    [postman-token] => Array
+        (
+            [0] => 5c45de59-7b6c-cc0a-0658-09c52c30136d
+        )
+
+    [origin] => Array
+        (
+            [0] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+        )
+
+    [cache-control] => Array
+        (
+            [0] => no-cache
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+        )
+
+    [content-length] => Array
+        (
+            [0] => 626
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513039839672
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513039839672
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [postback] => Array
+                                        (
+                                            [payload] => GET_STARTED
+                                            [title] => Get Started
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:1110:5fc7:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 246
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=7c90a91e615b284f0c888ff67eec6ff6f1bd4244
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => deflate, gzip
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Invalid Signature
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513039646952
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513039646952
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [postback] => Array
+                                        (
+                                            [payload] => GET_STARTED
+                                            [title] => Get Started
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 111.88.68.245
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [cookie] => Array
+        (
+            [0] => laravel_session=eyJpdiI6IjZRalBUb2pQbGkySUFncmhvN2NSWmc9PSIsInZhbHVlIjoiSys0RjEzcWxyU3pjaHRxWmw3XC9sQzFFYkVsS3h1MWRlTzQ4UHArNTUzU0FEMFFBMWdsZUpUaUhQWjZsWXk4bzljOHBrZnFZRW5ZUkM4WVhyK2lMa0JnPT0iLCJtYWMiOiI3MjlkNzUyMDQ5ZTRmZmJiOWY4MmJhYzI0ZWRhZGMyNTJiNDhlZmYyZTEzZTc4OTk5NzNjYjFlZWM2ZjlkYTQxIn0%3D
+        )
+
+    [accept-language] => Array
+        (
+            [0] => en-US,en;q=0.9,ca;q=0.8,ms;q=0.7,es;q=0.6
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => gzip, deflate, br
+        )
+
+    [dnt] => Array
+        (
+            [0] => 1
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json;charset=UTF-8
+        )
+
+    [postman-token] => Array
+        (
+            [0] => 8fc6b412-32ba-0a34-eae6-fac43cea9b53
+        )
+
+    [origin] => Array
+        (
+            [0] => chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+        )
+
+    [cache-control] => Array
+        (
+            [0] => no-cache
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+        )
+
+    [content-length] => Array
+        (
+            [0] => 626
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513040072503
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513040072503
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [postback] => Array
+                                        (
+                                            [payload] => GET_STARTED
+                                            [title] => Get Started
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:1110:5fc0:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 246
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=ed7a1db408a8fe011290d11a33ea961cf7c9c4dc
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => deflate, gzip
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513040098115
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513040098115
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [postback] => Array
+                                        (
+                                            [payload] => PAYBILL_PAYLOAD
+                                            [title] => Pay Bill
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:1110:8fdf:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 247
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=1d4bad10ab44519e0b123a625449b9ec32009bc3
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => deflate, gzip
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513040163462
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513040163462
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [postback] => Array
+                                        (
+                                            [payload] => GET_STARTED
+                                            [title] => Get Started
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:1120:8fda:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 246
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=8934070f71f7f3b7db983dd0d3ab9445171d259d
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => deflate, gzip
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513040177370
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513040177370
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [postback] => Array
+                                        (
+                                            [payload] => PAYBILL_PAYLOAD
+                                            [title] => Pay Bill
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:1120:8fd2:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 247
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=449f291b33df2beb60ed21527f9111f1926e052e
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => deflate, gzip
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Invalid Signature
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513040240590
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513040240590
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [postback] => Array
+                                        (
+                                            [payload] => GET_STARTED
+                                            [title] => Get Started
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:1110:9fcd:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 246
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=6ea271c7dbe5b1c34ebada842d44780e62dcd78e
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => deflate, gzip
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513040254659
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513040253987
+                                    [message] => Array
+                                        (
+                                            [mid] => mid.$cAAB02yi9EZ5meX9cI1gSDoTvaofz
+                                            [seq] => 241751
+                                            [text] => Hi
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:3011:6fc3:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 267
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=bc4e21bf9600f18533338351df6d57fbc8042202
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => deflate, gzip
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513040264099
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513040263426
+                                    [message] => Array
+                                        (
+                                            [mid] => mid.$cAAB02yi9EZ5meX-BAlgSDo4iJ39E
+                                            [seq] => 241754
+                                            [text] => Hello
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:3020:aff2:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 270
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=4369c522d6c4d4c59375d8bab1ee63dd83d60286
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => deflate, gzip
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513040271574
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513040270901
+                                    [message] => Array
+                                        (
+                                            [mid] => mid.$cAAB02yi9EZ5meX-eNVgSDpVs1qu8
+                                            [seq] => 241756
+                                            [text] => Start conversation
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:3020:9fe6:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 283
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=184d3ad64ef57987b18b8ab9e41838eb2dcf9ca5
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => deflate, gzip
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513040521528
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513040410630
+                                    [message] => Array
+                                        (
+                                            [mid] => mid.$cAAB02yi9EZ5meYHABlgSDx3ojAFu
+                                            [seq] => 241758
+                                            [text] => Hi
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:3020:1ff6:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 267
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=7dec4c7f993277c6082ce3653da25b8f7c1b22e5
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => deflate, gzip
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Invalid Signature
+Array
+(
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 111.88.68.245
+        )
+
+    [cookie] => Array
+        (
+            [0] => __lnkrntdmcvrd=-1; XSRF-TOKEN=eyJpdiI6IlBNamlScmdjYTcwV000SEZrMWl4enc9PSIsInZhbHVlIjoiOFMwV0Z5eldEUlp1T0FaK3FCQVNrNW1tOTNTMWY2NURDRG1NNWtiNXhWZW5OVUhnVFRCbUVcL3ZNN2dZTGlFNzNTNDlHcUhVMzcxT3lSSXRscWVVU2hRPT0iLCJtYWMiOiJiOThkNDZlNzQ0YTQ0NmNiNGEyNWU1OWIyMTZiOGJiM2NiZGI5MGMwNTEyMWRiOTgzOGVkMDQxNjBmZjQ2ODI3In0%3D; laravel_session=eyJpdiI6InF4UjBQTFJjWmc4MjZKSTlvSGp5XC93PT0iLCJ2YWx1ZSI6IjBxcDM0XC9sWTdmdmtpWk5DVlhRb3l1SVk1U2Rtd3JFNFwvMzNWVWlibHVZSW5DNWFBQnZxdlZaSHNYdWlmMzd0YzRLMlwvWFNSa3QwNGhMUThISzRZcTd3PT0iLCJtYWMiOiIwODBjYjBiM2Y0NjE2YjVkOTJhMzFhZDRmOTY4OGZiM2FiMzhmNTgyZDNlMzNkYTg1ZjIwY2Y4NWU5OTk1NWM2In0%3D
+        )
+
+    [accept-language] => Array
+        (
+            [0] => en-US,en;q=0.9,ca;q=0.8,ms;q=0.7,es;q=0.6
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => gzip, deflate
+        )
+
+    [dnt] => Array
+        (
+            [0] => 1
+        )
+
+    [accept] => Array
+        (
+            [0] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+        )
+
+    [upgrade-insecure-requests] => Array
+        (
+            [0] => 1
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+    [content-length] => Array
+        (
+            [0] => 
+        )
+
+    [content-type] => Array
+        (
+            [0] => 
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513040530692
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513040441622
+                                    [message] => Array
+                                        (
+                                            [mid] => mid.$cAAB02yi9EZ5meYI5FlgSDztwYQBJ
+                                            [seq] => 241759
+                                            [text] => hi
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:3020:5fe6:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 267
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=6d6a727c598333525534dc162591a522c2d77b89
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => deflate, gzip
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513040536100
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513040489307
+                                    [message] => Array
+                                        (
+                                            [mid] => mid.$cAAB02yi9EZ5meYLzW1gSD2n_4HtR
+                                            [seq] => 241760
+                                            [text] => hi
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:3010:cfe5:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 267
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=daa92a2c4d7831280d5b55784f0257a2b2d82493
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => deflate, gzip
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513040543930
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513040491249
+                                    [message] => Array
+                                        (
+                                            [mid] => mid.$cAAB02yi9EZ5meYL68VgSD2x-TZub
+                                            [seq] => 241761
+                                            [text] => hello
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:3020:bfe4:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 270
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=d195660f51eedadbb261ba2b3870aeaa02bc0c37
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => deflate, gzip
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [object] => page
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 128485784518906
+                    [time] => 1513040550298
+                    [messaging] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [sender] => Array
+                                        (
+                                            [id] => 1675627815831195
+                                        )
+
+                                    [recipient] => Array
+                                        (
+                                            [id] => 128485784518906
+                                        )
+
+                                    [timestamp] => 1513040492630
+                                    [message] => Array
+                                        (
+                                            [mid] => mid.$cAAB02yi9EZ5meYMAVlgSD20ejaWM
+                                            [seq] => 241762
+                                            [text] => hi
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:3011:6fc0:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 267
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=676f3bf64ed94b816bc5c5e81d9bca6e939c0585
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept-encoding] => Array
+        (
+            [0] => deflate, gzip
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [field] => messages
+                                    [value] => Array
+                                        (
+                                            [page_id] => 1067280970047460
+                                        )
+
+                                )
+
+                        )
+
+                    [id] => 0
+                    [time] => 1513030669
+                )
+
+        )
+
+    [object] => page
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:3020:bfe4:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 140
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Webhooks/1.0 (https://fb.me/webhooks)
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=39633dc0323425bc0cc8c2b2fa2212439464dda8
+        )
+
+    [connection] => Array
+        (
+            [0] => close
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
+        )
+
+)
+
+ed659387efd74af7694fbe5b02fc7fd1
+EAAbQa3rgGcMBAJoutqRB8YfnIkSB7B6xc5qZBGSUCW3m2NG1tUCjjC2ArXYJ2dgqeSdI8e8NjcNDXtbxpMsIZAIicqYO7kuBi5zyoQggqY51G4cVT9ruZCJMvkEoKimEhwRP4qXmkdabRQ40RLeXoUqOAyhxk9KT9euRNPZCqQZDZD
+Array
+(
+    [entry] => Array
+        (
+            [0] => Array
+                (
+                    [changes] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [field] => conversations
+                                    [value] => Array
+                                        (
+                                            [thread_id] => t_mid.14833205540:9182a4e489
+                                            [page_id] => 4444444
+                                        )
+
+                                )
+
+                        )
+
+                    [id] => 0
+                    [time] => 1513030658
+                )
+
+        )
+
+    [object] => page
+)
+Array
+(
+    [x-forwarded-for] => Array
+        (
+            [0] => 2a03:2880:1030:5fc4:face:b00c:0:8000
+        )
+
+    [x-forwarded-proto] => Array
+        (
+            [0] => https
+        )
+
+    [content-length] => Array
+        (
+            [0] => 179
+        )
+
+    [user-agent] => Array
+        (
+            [0] => Webhooks/1.0 (https://fb.me/webhooks)
+        )
+
+    [x-hub-signature] => Array
+        (
+            [0] => sha1=1d360d090059ac3f970b2390475306f4b47eabef
+        )
+
+    [connection] => Array
+        (
+            [0] => close
+        )
+
+    [content-type] => Array
+        (
+            [0] => application/json
+        )
+
+    [accept] => Array
+        (
+            [0] => */*
+        )
+
+    [host] => Array
+        (
+            [0] => 762c2edf.ngrok.io
         )
 
 )
