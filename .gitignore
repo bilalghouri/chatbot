@@ -12,3 +12,5 @@ npm-debug.log
 .env
 /bot
 ./bot
+./botman/vendor
+./botman/vendor/

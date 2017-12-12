@@ -7,6 +7,78 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "botman/vendor/botman/driver-facebook/src/FacebookDriver.php",
+			"settings":
+			{
+				"buffer_size": 14907,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "botman/app/Http/Middleware/VerifyCsrfToken.php",
+			"settings":
+			{
+				"buffer_size": 312,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "botman/app/Http/Kernel.php",
+			"settings":
+			{
+				"buffer_size": 2033,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "botman/app/User.php",
+			"settings":
+			{
+				"buffer_size": 511,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "botman/config/botman/facebook.php",
+			"settings":
+			{
+				"buffer_size": 3466,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<?php\nuse App\\Http\\Controllers\\BotManController;\n\n$botman = resolve('botman');\n\n$botman->hears('Hi', function ($bot) {\n    $bot->reply('Hello!');\n});\n$botman->hears('GET_STARTED', function ($bot) {\n    $user = $bot->getUser();\n    $firstname = $user->getFirstName();\n    $bot->reply('greeting');\n});\n",
+			"file": "botman/routes/botman.php",
+			"file_size": 231,
+			"file_write_time": 131575133460000000,
+			"settings":
+			{
+				"buffer_size": 300,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "botman/app/Conversations/ExampleConversation.php",
+			"settings":
+			{
+				"buffer_size": 1310,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 2047,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -15,7 +87,7 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 149.0,
+		"height": 210.0,
 		"last_filter": "install",
 		"selected_items":
 		[
@@ -24,7 +96,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 444.0
+		"width": 496.0
 	},
 	"console":
 	{
@@ -47,24 +119,41 @@
 	[
 		"/Users/bilal/work/development/www/chatbot",
 		"/Users/bilal/work/development/www/chatbot/botman",
-		"/Users/bilal/work/development/www/chatbot/botman/routes"
+		"/Users/bilal/work/development/www/chatbot/botman/app",
+		"/Users/bilal/work/development/www/chatbot/botman/app/Conversations",
+		"/Users/bilal/work/development/www/chatbot/botman/app/Http",
+		"/Users/bilal/work/development/www/chatbot/botman/app/Http/Controllers",
+		"/Users/bilal/work/development/www/chatbot/botman/routes",
+		"/Users/bilal/work/development/www/chatbot/botman/vendor"
 	],
 	"file_history":
 	[
+		"/Users/bilal/work/development/www/chatbot/botman/vendor/botman/driver-facebook/src/Commands/AddGreetingText.php",
+		"/Users/bilal/work/development/www/chatbot/botman/app/Http/Kernel.php",
+		"/Users/bilal/work/development/www/chatbot/botman/routes/web.php",
+		"/Users/bilal/work/development/www/chatbot/botman/vendor/symfony/console/Descriptor/Descriptor.php",
+		"/Users/bilal/work/development/www/chatbot/botman/config/botman/facebook.php",
+		"/Users/bilal/work/development/www/chatbot/botman/routes/botman.php",
+		"/Users/bilal/work/development/www/chatbot/botman/vendor/botman/botman/src/BotMan.php",
+		"/Users/bilal/work/development/www/chatbot/botman/app/Http/Controllers/BotManController.php",
+		"/Users/bilal/work/development/www/chatbot/botman/vendor/botman/driver-facebook/src/FacebookDriver.php",
+		"/Users/bilal/work/development/www/chatbot/botman-old/server.php",
+		"/Users/bilal/work/development/www/chatbot/botman/config/botman/config.php",
+		"/Users/bilal/work/development/www/chatbot/botman/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+		"/Users/bilal/work/development/www/chatbot/botman/vendor/laravel/framework/src/Illuminate/Contracts/Http/Kernel.php",
+		"/Users/bilal/work/development/www/chatbot/botman/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+		"/Users/bilal/work/development/www/chatbot/sftp-config.json",
+		"/Users/bilal/work/development/www/chatbot/botman/.gitignore",
 		"/Users/bilal/work/development/www/chatbot/botman/config/app.php",
 		"/Users/bilal/work/development/www/chatbot/botman/.env",
-		"/Users/bilal/work/development/www/chatbot/botman/vendor/laravel/framework/src/Illuminate/Http/Request.php",
-		"/Users/bilal/work/development/www/chatbot/botman/routes/botman.php",
 		"/Users/bilal/work/development/www/chatbot/botman/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
 		"/Users/bilal/work/development/www/chatbot/info.php",
 		"/Users/bilal/work/development/www/chatbot/index.php",
-		"/Users/bilal/work/development/www/chatbot/botman/app/Http/Controllers/BotManController.php",
 		"/Users/bilal/work/development/www/chatbot/botman/vendor/autoload.php",
 		"/Users/bilal/work/development/www/chatbot/botman/vendor/composer/autoload_real.php",
 		"/Users/bilal/work/development/www/chatbot/botman/vendor/composer/autoload_files.php",
 		"/Users/bilal/work/development/www/chatbot/botman/vendor/composer/autoload_classmap.php",
 		"/Users/bilal/work/development/www/chatbot/botman/routes/api.php",
-		"/Users/bilal/work/development/www/chatbot/botman/routes/web.php",
 		"/Users/bilal/work/development/www/chatbot/botman/app/Conversations/ExampleConversation.php",
 		"/Users/bilal/work/development/www/chatbot/botman/app/Http/Controllers/Controller.php",
 		"/Users/bilal/work/development/www/chatbot/botman/app/Providers/AppServiceProvider.php",
@@ -84,13 +173,12 @@
 		"/Users/bilal/work/development/www/chatbot/botman/public/index.php",
 		"/Users/bilal/work/development/www/index.php",
 		"/Users/bilal/work/development/www/public/index.php",
-		"/Users/bilal/work/development/www/chatbot/botman/config/botman/facebook.php",
 		"/Users/bilal/work/development/Vagrantfile",
 		"/Users/bilal/work/development/Vagrantfile.bak"
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 70.0
 	},
 	"find_in_files":
 	{
@@ -105,6 +193,17 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"getuser",
+			"greeting_text",
+			"config",
+			"chatbot",
+			"matchesRequest",
+			"validateSignature",
+			"content",
+			"resp",
+			"response",
+			"handle",
+			"response",
 			"getInputSource",
 			"all",
 			"log"
@@ -125,8 +224,275 @@
 	"groups":
 	[
 		{
+			"selected": 5,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "botman/vendor/botman/driver-facebook/src/FacebookDriver.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14907,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11955,
+								11955
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9778.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "botman/app/Http/Middleware/VerifyCsrfToken.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 312,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								260,
+								260
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "botman/app/Http/Kernel.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2033,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1162,
+								1162
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 210.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "botman/app/User.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								127,
+								127
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "botman/config/botman/facebook.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1730,
+								1730
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 791.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "botman/routes/botman.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 300,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								248,
+								216
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "botman/app/Conversations/ExampleConversation.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1310,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 123.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2047,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1985,
+								1985
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 658.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -162,6 +528,10 @@
 	},
 	"menu_visible": true,
 	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
 	{
 		"height": 0.0
 	},
