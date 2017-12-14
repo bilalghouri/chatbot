@@ -43,15 +43,15 @@ $botman->hears('lol', function ($bot) {
         $bot->reply(":)");
 });
 
-$botman->hears('#tum (.*) ho#i', function ($bot, $word) {
+$botman->hears('#tum (.*) ho#', function ($bot, $word) {
     $bot->reply("nahi, tum $word ho!");
 });
 
-$botman->hears('#tu (.*) (he|hai|hay|ha|h)#i', function ($bot, $word) {
+$botman->hears('#tu (.*) (he|hai|hay|ha|h)#', function ($bot, $word) {
     $bot->reply("nahi, tu $word hai!");
 });
 
-$botman->hears('#bilal (?:ghouri) ([a-zA-Z\s]+) (he|hai|hay|ha|h)#i', function ($bot, $word) {
+$botman->hears('#bilal (?:ghouri) ([a-zA-Z\s]+) (he|hai|hay|ha|h)#', function ($bot, $word) {
     $bot->reply("Bilal bohot tight banda hay! Tu $word hai.");
 });
 
